@@ -1,0 +1,3 @@
+# My-first-Calculator
+I want some Improvements like programe for the % calculation and text view should show all the input numbers even after the end of the text view...
+I dont know exactly whats the terminology for that i think you can understand what im trying to say..
